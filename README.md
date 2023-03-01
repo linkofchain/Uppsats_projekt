@@ -1,2 +1,2 @@
 # Uppsats_projekt
-R markdown project for a bachelors project
+R markdown code for my bachelors project
